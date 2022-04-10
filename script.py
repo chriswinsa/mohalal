@@ -11,7 +11,9 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
+
+   ABOUT_TXT = """<b>➥ My name: {}
+ 🔰COcreator:'https://t.me/Mr_sarvar_m
 ➥ Creator: <a href='https://t.me/filesharingnewbot'>Zaute Km</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
