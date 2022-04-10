@@ -64,7 +64,7 @@ You can deploy this bot anywhere.
 <br/>
 
 <p align="left">
-<a href="https://railway.app/new/template?template=https://github.com/chriswinsa/tgmoviebot"
+<a href="https://railway.app/new/template?template=https://github.com/chriswinsa/mohalal"
 ">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
