@@ -53,8 +53,8 @@ You can deploy this bot anywhere.
 <a href="https://telegram.dog/XTZ_HerokuBot?start=Y2hyaXN3aW5zYS9tb2hhbGFsIG1hc3Rlcg">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-<a href=""><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
-<a href=""><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
+<a href=""><img src=""></a>
+<a href=""><img src="">
 </a>
 </p>
 </details>
