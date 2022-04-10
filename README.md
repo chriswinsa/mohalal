@@ -53,8 +53,8 @@ You can deploy this bot anywhere.
 <a href="https://telegram.dog/XTZ_HerokuBot?start=Y2hyaXN3aW5zYS9tb2hhbGFsIG1hc3Rlcg">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-<a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
+<a href=""><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
+<a href=""><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
 </a>
 </p>
 </details>
@@ -69,8 +69,8 @@ You can deploy this bot anywhere.
      <img height="30px" src="https://railway.app/button.svg">
   </a>
 </p>
-<a href="https://youtu.be/h6PtzFYaMxQ"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Railway-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/h6PtzFYaMxQ"><img src="https://img.shields.io/youtube/views/h6PtzFYaMxQ?style=social">
+<a href=""><img src=""></a>
+<a href=""><img src="">
 </a>
 </p>
 
@@ -118,11 +118,11 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/JOSPSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/JosProjects)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/allinonemoviesforallin)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/allinonemoviesforallin)
 
 ## Credits 
-* [![Zaute-Km](https://img.shields.io/static/v1?label=Dingdi-Dev&message=devs&color=critical)](https://telegram.dog/zautebot)
+* [![Appu](https://img.shields.io/static/v1?label=Dingdi-Dev&message=devs&color=critical)](https://github.com/chriswinsa)
 
 
 ## Thanks to 
