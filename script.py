@@ -13,8 +13,8 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
 
    ABOUT_TXT = """<b>➥ My name: {}
- 🔰COcreator:'https://t.me/Mr_sarvar_m
-➥ Creator: <a href='https://t.me/filesharingnewbot'>Zaute Km</a>
+ 🔰COcreator: <a href='https://t.me/Mr_sarvar_m'>Muhammad</a>
+➥ Creator: <a href='https://t.me/filesharingnewbot'>Appu</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -22,7 +22,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
+IMDb is a Open source project.ASK TO OUR OWNER 
 Source: <a href='https://t.me/filesharingnewbot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
