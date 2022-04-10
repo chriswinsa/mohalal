@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/josprojects/tgmoviebot",
-    "repository": "https://github.com/chriswinsa/tgmoviebot",
+    "website": "https://github.com/chriswinsa/mohalal",
+    "repository": "https://github.com/chriswinsa/mohalal",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
